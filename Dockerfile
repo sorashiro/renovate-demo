@@ -1,4 +1,4 @@
-FROM nginx:1.21.3-alpine
+FROM nginx:1.27.2-alpine
 # Set working directory
 WORKDIR /usr/share/nginx/html
 
